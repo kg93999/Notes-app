@@ -87,8 +87,7 @@ search.addEventListener("input", function(){
 
 /*
 Features to add later:
-1. Add Title
-2. Mark a note as Important
-3. Separate notes by user
-4. Sync and host to web server 
+1. Mark a note as Important
+2. Separate notes by user
+3. Sync and host to web server 
 */ 
